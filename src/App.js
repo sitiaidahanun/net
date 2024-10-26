@@ -17,7 +17,7 @@ const App = () => {
         </div>
         <Link to='/'>Home</Link>
         <Link to='/photos'>My Photos</Link>
-        <Link to='/add'>Add Photo</Link>
+        <Link to='/add'np>Add Photo</Link>
       </div>
 
       <Routes>
